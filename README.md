@@ -1,6 +1,8 @@
 
 # Spec Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/w3c/spec-generator.svg)](https://greenkeeper.io/)
+
 This exposes a service to automatically generate specs from various source formats.
 
 ## API
